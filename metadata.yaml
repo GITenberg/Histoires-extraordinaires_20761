@@ -1,0 +1,49 @@
+_repo: Histoires-extraordinaires_20761
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Baudelaire, Charles
+    aliases:
+    - Baudelaire-Dufays, Charles Pierre
+    - Baudelaire-Dufaÿs, Charles Pierre
+    birthdate: 1821
+    deathdate: 1867
+    gutenberg_agent_id: '1947'
+    url: http://www.gutenberg.org/2009/agents/1947
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Charles_Baudelaire
+    - http://fr.wikipedia.org/wiki/Charles_Baudelaire
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Poe, Edgar Allan
+    alias: Poe, Edgar Allen
+    birthdate: 1809
+    deathdate: 1849
+    gutenberg_agent_id: '481'
+    url: http://www.gutenberg.org/2009/agents/481
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Allan_Poe
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2007-03-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20761'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fantasy fiction, American -- Translations into French'
+- !lcsh 'Poe, Edgar Allan, 1809-1849 -- Translations into French'
+tableOfContents: Edgar Poe, sa vie et ses oeuvres -- Double assassinat de la rue Morgue
+  -- La lettre volée -- Le scarabée d'or -- Le canard au ballon -- Aventure sans
+  pareille d'un certain Hans Pfaall -- Manuscrit trouvé dans une bouteille -- Une
+  descente dans le maelstrom -- La vérité sur le cas de m. Valdemar -- Révélation
+  magnétique -- Les souvenirs de m. Auguste Bedloe -- Morella -- Ligeia -- Metzengerstein
+  -- Edgar Allan Poe, sa vie et ses oeuvrages.
+title: Histoires extraordinaires
+url: http://www.gutenberg.org/ebooks/20761
